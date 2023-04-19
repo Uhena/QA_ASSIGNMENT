@@ -1,0 +1,29 @@
+package introduction;
+
+public class Operator {
+
+	public static void main(String[] args) {
+	
+	int i = 10; 
+
+	int j = 7; 
+
+	System.out.println(i+j); // 17
+
+	System.out.println(i-j); // 3
+
+	System.out.println(i*j); // 70
+
+	System.out.println(i/j); // 1.42
+	
+	System.out.println(i%j); // 3
+	
+	}
+
+}
+   //output
+   // 17
+   // 3
+   // 70
+   // 1
+   // 3
